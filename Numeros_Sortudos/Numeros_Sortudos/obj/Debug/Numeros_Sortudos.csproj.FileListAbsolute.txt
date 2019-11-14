@@ -1,0 +1,6 @@
+C:\Users\hpontes\source\repos\Numeros_Sortudos\Numeros_Sortudos\bin\Debug\Numeros_Sortudos.exe.config
+C:\Users\hpontes\source\repos\Numeros_Sortudos\Numeros_Sortudos\bin\Debug\Numeros_Sortudos.exe
+C:\Users\hpontes\source\repos\Numeros_Sortudos\Numeros_Sortudos\bin\Debug\Numeros_Sortudos.pdb
+C:\Users\hpontes\source\repos\Numeros_Sortudos\Numeros_Sortudos\obj\Debug\Numeros_Sortudos.csprojAssemblyReference.cache
+C:\Users\hpontes\source\repos\Numeros_Sortudos\Numeros_Sortudos\obj\Debug\Numeros_Sortudos.exe
+C:\Users\hpontes\source\repos\Numeros_Sortudos\Numeros_Sortudos\obj\Debug\Numeros_Sortudos.pdb
